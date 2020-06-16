@@ -17,7 +17,7 @@ public class Ouside extends Room {
     @Override
     public void getAnswer(){
         super.getAnswer();
-        System.out.println("在广场打怪兽的不是奥特曼");
+        System.out.println("小心周围有怪兽出没");
 
     }
 }
